@@ -1,0 +1,39 @@
+body	{
+	background-color: #1a001a;
+	color: #ffd633;
+	font-family: "Times New Roman";
+    background-image: url("space.jpg");
+
+	}
+	h1{
+	font-size:250%;
+	}
+div		{
+background-color: #000c4c;
+	}
+h2	{
+	font-size:220%;
+	}
+a:link, a:visited {
+    background-color: #1c009e;
+    color: #ffd633;
+    border: 2px #ffd633;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 2px;
+    font-size:60%;
+}    
+img {
+    height: 350px;
+    width: 500px;
+    border: 20px;
+    
+
+#hello {
+font-size:400%;
+}
+
+
+
